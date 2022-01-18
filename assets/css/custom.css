@@ -1,0 +1,52 @@
+.min-h-120{min-height:180px}strong{color:#000}.left5{margin-left:5%;text-align:left;margin-top:-4%}.addressIMG{margin-right:5%;display:list-item}.mr-bt-10{margin-top:5%;margin-bottom:5%}.bg-c{background:#2b648f}.pricing-card-area .single-card{min-height:380px}.main-bg{background:#f4feff}.boxed-btn-new{background:#2b648f}.main-header .main-menu ul li>a::before{background:#2b648f}.main-header .main-menu ul li>a{color:#2b648f}.preloader .preloader-circle{border-top-color:#2f648e}
+
+.pricing-card-area .single-card .card-bottom ul li {
+    color: #000000;
+    font-weight: 1;
+    margin-bottom: 16px;
+    font-size: 16px;
+}
+
+#scrollUp {
+    background: #2b648f;
+    vertical-align: middle;
+}
+
+.img-logo{
+    margin: 5%;
+    float: left;
+    text-align: center;
+}
+
+.boxed-btn:hover {
+    background: #2b648f;
+
+
+}
+
+.boxed-btn {
+            color: #2b648f !important;
+            border: 1px solid #2b648f;
+    }
+
+.slicknav_menu .slicknav_icon-bar {
+    background-color: #2f648e !important;
+}
+
+@media only screen and (max-width: 600px) {
+  .mobile-margin { margin-top: 20%;  }
+}
+
+
+.my-5{
+    margin-right: 5%;
+}
+
+.my2-5{
+    float: left;
+}
+
+.error {
+  color: #F00;
+  background-color: #FFF;
+}

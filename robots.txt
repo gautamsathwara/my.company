@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: 
+Disallow: /controller/
+Disallow: /lib/
+Sitemap: https://www.my-company.app/sitemap.xml
